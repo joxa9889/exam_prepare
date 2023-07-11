@@ -1,3 +1,9 @@
+from itertools import chain
+
+l = [323,3232]
+v = ["ewdde", 'dwedw']
+
+x = chain(l,v)
 """
 1. Range funsiyasi nima va u qanday parametorlari bor ?
 """
