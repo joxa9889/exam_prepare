@@ -1,6 +1,3 @@
-import random 
-
-l = [i for i in random.randint(1, 20)]
 """
 1. Range funsiyasi nima va u qanday parametorlari bor ?
 """
