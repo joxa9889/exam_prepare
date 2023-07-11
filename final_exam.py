@@ -1,3 +1,6 @@
+import random 
+
+l = [i for i in random.randint(1, 20)]
 """
 1. Range funsiyasi nima va u qanday parametorlari bor ?
 """
@@ -42,4 +45,3 @@ l1 = [12]
 l2 = [12]
 print(l1 is l2)
 
-#
