@@ -161,3 +161,5 @@ update() - (ozgaruvchiga olinmaydi) aniq bir setga boshqa setni qoshish uchun is
  
 
 #../
+
+print('hollla')
